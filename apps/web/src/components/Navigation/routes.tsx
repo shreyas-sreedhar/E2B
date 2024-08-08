@@ -71,7 +71,7 @@ export const routes = [
       },
       {
         icon: <BarChart strokeWidth={1} size={20} />,
-        title: 'Track usage',
+        title: 'Track usage \u{2197}',
         href: '/dashboard?tab=usage',
       },
       {
@@ -86,7 +86,7 @@ export const routes = [
     links: [
       {
         icon: <BookOpen strokeWidth={1} size={20} />,
-        title: 'Guides and examples in cookbook',
+        title: 'Guides and examples in cookbook \u{2197}',
         href: 'https://github.com/e2b-dev/e2b-cookbook',
       },
       {
